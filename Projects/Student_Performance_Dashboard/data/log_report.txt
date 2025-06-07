@@ -1,0 +1,12 @@
+[07-06-2025 17-51-18] Riya (94) -> Grade : A saved to student_report.csv
+[07-06-2025 17-51-30] Akash (78) -> Grade : B saved to student_report.csv
+[07-06-2025 17-51-39] Neha (61) -> Grade : C saved to student_report.csv
+[07-06-2025 17-51-49] Invalid input: non-integer marks entered.
+[07-06-2025 17-52-09] Vivek (45) -> Grade : D saved to student_report.csv
+[07-06-2025 17-52-42] Faizzan (37) -> Grade : F saved to student_report.csv
+[07-06-2025 17-52-52] Sneha (83) -> Grade : B saved to student_report.csv
+[07-06-2025 17-52-58] Rahul (25) -> Grade : F saved to student_report.csv
+[07-06-2025 17-53-04] Diya (89) -> Grade : B saved to student_report.csv
+[07-06-2025 17-53-15] Karthik (59) -> Grade : D saved to student_report.csv
+[07-06-2025 17-53-23] Anjali (72) -> Grade : C saved to student_report.csv
+[07-06-2025 17-56-56] Anjali (72) -> Grade : C saved to student_report.csv

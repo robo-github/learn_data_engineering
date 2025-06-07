@@ -1,3 +1,0 @@
-[2025-06-04 21:02:54] Student 'Anand' with marks 50 saved to students.csv
-[2025-06-04 21:03:15] Invalid marks (1000) entered for student '3'
-[2025-06-04 21:03:27] Student '2' with marks 22 saved to students.csv
