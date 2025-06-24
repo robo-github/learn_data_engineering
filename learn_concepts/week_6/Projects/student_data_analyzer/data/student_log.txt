@@ -1,0 +1,16 @@
+[2025-06-24 13:02:17] 🧑🏻 User chose option '1'
+[2025-06-24 13:02:18] 🧑🏻 User chose option '2'
+[2025-06-24 13:02:18] 🧑🏻 User chose option '3'
+[2025-06-24 13:02:19] 🧑🏻 User chose option '4'
+[2025-06-24 13:02:20] 🧑🏻 User chose option '5'
+[2025-06-24 13:02:21] 🧑🏻 User chose option '6'
+[2025-06-24 13:02:21] ❌ Program terminated by user
+[2025-06-24 13:02:27] 🧑🏻 User chose option '2'
+[2025-06-24 13:02:28] 🧑🏻 User chose option '5'
+[2025-06-24 13:02:30] 🧑🏻 User chose option 'gg'
+[2025-06-24 13:02:30] 'gg' is not a valid choice
+[2025-06-24 13:02:32] 🧑🏻 User chose option 'hi'
+[2025-06-24 13:02:32] 'hi' is not a valid choice
+[2025-06-24 13:02:35] 🧑🏻 User chose option '5'
+[2025-06-24 13:02:37] 🧑🏻 User chose option '6'
+[2025-06-24 13:02:37] ❌ Program terminated by user
