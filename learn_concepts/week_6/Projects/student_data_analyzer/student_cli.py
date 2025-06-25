@@ -49,6 +49,7 @@ def show_top_score():
 try:
     while True:
         print("\n📋 Student Data Analyzer Menu")
+        print("=" * 30)
         print("1. Show all students")
         print("2. Show sorted student Names")
         print("3. Show subject-wise average marks")

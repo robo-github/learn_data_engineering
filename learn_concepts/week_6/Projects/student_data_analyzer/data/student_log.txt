@@ -14,3 +14,12 @@
 [2025-06-24 13:02:35] 🧑🏻 User chose option '5'
 [2025-06-24 13:02:37] 🧑🏻 User chose option '6'
 [2025-06-24 13:02:37] ❌ Program terminated by user
+[2025-06-25 12:45:38] 🧑🏻 User chose option 'python -u "c:\BitBakery\learn_data_engineering\learn_concepts\week_6\Projects\student_data_analyzer\student_cli.py"'
+[2025-06-25 12:45:38] 'python -u "c:\BitBakery\learn_data_engineering\learn_concepts\week_6\Projects\student_data_analyzer\student_cli.py"' is not a valid choice
+[2025-06-25 12:45:47] 🧑🏻 User chose option '1'
+[2025-06-25 12:45:48] 🧑🏻 User chose option '2'
+[2025-06-25 12:45:48] 🧑🏻 User chose option '3'
+[2025-06-25 12:45:49] 🧑🏻 User chose option '4'
+[2025-06-25 12:45:49] 🧑🏻 User chose option '5'
+[2025-06-25 12:45:50] 🧑🏻 User chose option '6'
+[2025-06-25 12:45:50] ❌ Program terminated by user
