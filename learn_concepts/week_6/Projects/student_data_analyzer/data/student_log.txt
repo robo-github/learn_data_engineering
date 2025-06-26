@@ -23,3 +23,39 @@
 [2025-06-25 12:45:49] 🧑🏻 User chose option '5'
 [2025-06-25 12:45:50] 🧑🏻 User chose option '6'
 [2025-06-25 12:45:50] ❌ Program terminated by user
+[2025-06-26 13:08:16] 🧑🏻 User chose option '6'
+[2025-06-26 13:11:13] 🧑🏻 User chose option '6'
+[2025-06-26 13:12:48] 🧑🏻 User chose option 'Devika'
+[2025-06-26 13:12:48] 'Devika' is not a valid choice
+[2025-06-26 13:12:57] 🧑🏻 User chose option 'clear'
+[2025-06-26 13:12:57] 'clear' is not a valid choice
+[2025-06-26 13:13:20] 🧑🏻 User chose option '5'
+[2025-06-26 13:13:35] 🧑🏻 User chose option '6'
+[2025-06-26 13:13:58] Added student: Devika with marks: 100 in Maths
+[2025-06-26 13:14:52] 🧑🏻 User chose option '5'
+[2025-06-26 13:16:46] 🧑🏻 User chose option 'python -u "c:\BitBakery\learn_data_engineering\learn_concepts\week_6\Projects\student_data_analyzer\student_cli.py"'
+[2025-06-26 13:16:46] 'python -u "c:\BitBakery\learn_data_engineering\learn_concepts\week_6\Projects\student_data_analyzer\student_cli.py"' is not a valid choice
+[2025-06-26 13:16:50] 🧑🏻 User chose option '6'
+[2025-06-26 13:17:01] Added student: Anand  with marks: 100 in English
+[2025-06-26 13:17:58] 🧑🏻 User chose option '6'
+[2025-06-26 13:18:09] Added student: Anand with marks: 20 in English
+[2025-06-26 13:18:49] 🧑🏻 User chose option '6'
+[2025-06-26 13:18:59] Added student: Anand with marks: 50 in Maths
+[2025-06-26 13:19:24] 🧑🏻 User chose option '6'
+[2025-06-26 13:19:43] Added student: Hari with marks: 60 in English
+[2025-06-26 13:19:59] 🧑🏻 User chose option '6'
+[2025-06-26 13:20:13] Added student: Manu with marks: 70 in Maths
+[2025-06-26 13:32:17] 🧑🏻 User chose option 'python -u "c:\BitBakery\learn_data_engineering\learn_concepts\week_6\Projects\student_data_analyzer\student_cli.py"'
+[2025-06-26 13:32:17] 'python -u "c:\BitBakery\learn_data_engineering\learn_concepts\week_6\Projects\student_data_analyzer\student_cli.py"' is not a valid choice
+[2025-06-26 13:32:26] 🧑🏻 User chose option '6'
+[2025-06-26 13:32:56] New Student Added : Devika,Math,100.
+[2025-06-26 13:33:09] 🧑🏻 User chose option '6'
+[2025-06-26 13:33:23] Error: Marks should be an integer.
+[2025-06-26 13:35:02] 🧑🏻 User chose option '6'
+[2025-06-26 13:35:14]  ❌ Invalid marks entered.
+[2025-06-26 13:35:19] 🧑🏻 User chose option '6'
+[2025-06-26 13:35:47] ❌ Error: Marks should be an integer.
+[2025-06-26 13:36:13] 🧑🏻 User chose option '6'
+[2025-06-26 13:36:27] ✅ New Student Added : Anand ,math,10.
+[2025-06-26 13:42:57] 🧑🏻 User chose option '6'
+[2025-06-26 13:43:13] ✅ New Student Added : Anand,English,90.

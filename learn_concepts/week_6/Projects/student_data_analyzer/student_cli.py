@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 from datetime import datetime
+import csv
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(base_dir, 'data', 'students6.csv')
@@ -46,6 +47,27 @@ def show_top_score():
     print(top_score)
 
 
+def add_student():
+    name = input("Enter student name: ")
+    subject = input("Enter the subject: ")
+    try:
+        marks = int(input("Enter the marks (0-100): "))
+        if 0 <= marks <= 100:
+            new_data = pd.DataFrame([[name, subject, marks]], columns=[
+                                    "Name", "Subject", "Marks"])
+            new_data.to_csv(csv_path, mode="a", header=False, index=False)
+            print(f"✅ Student '{name}' added successfully!")
+            log_message(f"✅ New Student Added : {name},{subject},{marks}.")
+
+        else:
+            print("❌ Invalid marks. Please enter marks between 0 and 100.")
+            log_message("❌ Invalid marks entered.")
+
+    except ValueError:
+        print("❌ Please enter a valid number for marks.")
+        log_message("❌ Error: Marks should be an integer.")
+
+
 try:
     while True:
         print("\n📋 Student Data Analyzer Menu")
@@ -55,7 +77,8 @@ try:
         print("3. Show subject-wise average marks")
         print("4. Show failed students (<20)")
         print("5. Show top 3 scorers")
-        print("6. Exit")
+        print("6. Add a new student")
+        print("7. Exit")
         choice = input("Enter your choice: ")
         log_message(f"🧑🏻 User chose option '{choice}'")
 
@@ -70,6 +93,8 @@ try:
         elif choice == "5":
             show_top_score()
         elif choice == "6":
+            add_student()
+        elif choice == "7":
             print("\n👋 Exiting....")
             log_message("❌ Program terminated by user")
             break
